@@ -1,0 +1,7 @@
+//configuration and packages
+
+{
+  "name": "http-server",
+  "main": "main.js"
+
+}
